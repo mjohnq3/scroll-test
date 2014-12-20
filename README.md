@@ -1,4 +1,4 @@
 scroll-test
 ===========
 
-CSS only scroll to -top
+CSS only scroll to top
