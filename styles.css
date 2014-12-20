@@ -14,5 +14,29 @@ body {
 }
 
 body p {
-  margin: 0 0 1.5em 0;
+  margin: 0 0 1.5em;
+}
+
+/*  scroll to top  */
+.scroll-top {
+  position: fixed;
+  bottom: 50px;
+  right: 10px;
+  z-index: 9999999;
+}
+
+.scroll-top a {
+  font-size: 30px;
+  background-color: rgba(128, 128, 128, .2);
+  color: rgba(0, 0, 205, .8);
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  transition: all .3s ease;
+  padding: 8px 14px;
+  text-decoration: none;
+}
+
+.scroll-top a:hover {
+  background-color: rgba(128, 128, 128, .3);
+  text-decoration: none;
 }
