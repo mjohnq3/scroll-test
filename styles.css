@@ -1,0 +1,18 @@
+html {
+  font-size: 100%;
+  line-height: 1.5;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: normal;
+  color: #292929;
+  margin: 20px auto;
+  max-width: 600px;
+  width: 96%;
+}
+
+body p {
+  margin: 0 0 1.5em 0;
+}
